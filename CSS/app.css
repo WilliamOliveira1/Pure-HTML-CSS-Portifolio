@@ -394,3 +394,9 @@ img.logo {
     flex: 0 0 60%;
   }
 }
+
+@media screen and (max-width: 400px) {
+    .card:hover .card-image {
+        width: 20%;
+    }
+}
