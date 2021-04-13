@@ -552,7 +552,7 @@ p {
 }
 
 /* Footer */
-#main-footer {
+.main-footer {
   text-align: center;
   background: rgba(49, 189, 207, 0.25);
   color: #333;
